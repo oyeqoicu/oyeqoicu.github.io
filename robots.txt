@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oyeqoicu.github.io/Imk/sitemap_index.txt
+Sitemap: https://oyeqoicu.github.io/erl/sitemap_index.txt
+Sitemap: https://oyeqoicu.github.io/uPn/sitemap_index.txt
+Sitemap: https://oyeqoicu.github.io/ugd/sitemap_index.txt
